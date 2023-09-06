@@ -1,6 +1,10 @@
 # BirdsSong-Datasets
 paper's dataset of "BirdsSong: A stylized generative audio steganography"
 
+sample folder includes generate audios: rain and bird 
+
+Rain.zip is the rain dataset and Bird.zip is the Bird dataset
+
 consist of DBR dataset[1], ESC50 dataset[2] and Isolated Urban Sound Database dataset[3]
 
 [1] V.-V. Eklund, "DBR dataset," ed, 2017.
